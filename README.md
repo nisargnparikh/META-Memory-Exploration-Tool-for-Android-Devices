@@ -3,7 +3,7 @@ META : Memory Exploration Tool for Android Devices
 Preprocessor readme:
 
 #META tool
-# trace preprocessor- READ ME 
+# trace preprocessor READ ME 
 
 DESCRIPTION
 
