@@ -11,8 +11,11 @@ The traces need to be processed to suit the memory simulator.
 One block of trace is:
 
 ##########
+
 CPU ID = 1
+
 Reg 0 = 43471d2c 
+
 Reg 1 = 553475f2 
 Reg 2 = 1c96ad85 
 Reg 3 = 5303ffed 
