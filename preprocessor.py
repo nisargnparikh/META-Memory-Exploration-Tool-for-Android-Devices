@@ -1,15 +1,26 @@
-infile = "traces (2).txt" #input file
+infile = "newtrace.txt" #input file
 
 num = ['-','0','1','2','3','4','5','6','7','8','9'] # using array num to seperate numbers
 # input path to file path here 
 with open(infile) as f:
     f = f.readlines()
 
+#from itertools import islice
+#with open(infile) as f:                            #slicing one trace block using ##
+#    f = f.readlines()
+#index = [x for x in range(len(f)) if '#' in f[x].lower()]
+#print(index)
+
+#LOGIC TO READ REGISTER VALUES AND STORE THEM IN A DATA STRUCTURE
 for line in f:
     
     c = str()
     if 'str' in line or 'stc' in line or 'strex' in line:
         sline = line[10:18]
+        #THE CODE TO ADD REGISTER OFFSET
+        #LOGIC TO FIND REGISTER IN THE LINE ie finding r1, r6, r9 etc
+        #adding program counter to the register value according to register number
+        #BELOW IS THE CODE TO ADD IMMEDIATE VALUE OFFSET
         if '#' in line:
             #print(line)
             index = line.find('#')
