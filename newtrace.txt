@@ -1,0 +1,694 @@
+##########
+CPU ID = 1
+Reg 0 = 43471d2c 
+Reg 1 = 553475f2 
+Reg 2 = 1c96ad85 
+Reg 3 = 5303ffed 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40118060 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc2c0 
+Reg 10 = ea17f9d2 
+Reg 11 = ec6f245b 
+Reg 12 = 8453b40e 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 4624567d 
+Reg 1 = 63c06536 
+Reg 2 = de61ef16 
+Reg 3 = f029e87 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40118040 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc2a0 
+Reg 10 = 7c04af68 
+Reg 11 = 2d02cd60 
+Reg 12 = d5bc463d 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 1c69d94e 
+Reg 1 = 74780f6b 
+Reg 2 = f624c02c 
+Reg 3 = a76853d1 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40118020 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc280 
+Reg 10 = d0bdc4c7 
+Reg 11 = 67ae2dd2 
+Reg 12 = 9c37fe97 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 936bcbbe 
+Reg 1 = fef7bdcc 
+Reg 2 = 1c45a42d 
+Reg 3 = 38bd4ec6 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40118000 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc260 
+Reg 10 = 1d6711b 
+Reg 11 = 585600ad 
+Reg 12 = 799ae63f 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 936bcbbe 
+Reg 1 = fef7bdcc 
+Reg 2 = 1c45a42d 
+Reg 3 = 38bd4ec6 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40118000 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc260 
+Reg 10 = 1d6711b 
+Reg 11 = 585600ad 
+Reg 12 = 799ae63f 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = c8776817 
+Reg 1 = 57d2f178 
+Reg 2 = fcc21fb4 
+Reg 3 = fbc1991a 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117fe0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc240 
+Reg 10 = 9c2fd8cb 
+Reg 11 = 7df2dfdb 
+Reg 12 = 7e043f8c 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = de6c3f56 
+Reg 1 = 6ac86ed 
+Reg 2 = 716354f7 
+Reg 3 = 113c184f 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117fc0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc220 
+Reg 10 = 57654f79 
+Reg 11 = e9df38cf 
+Reg 12 = bfb41bec 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 5d19ea00 
+Reg 1 = 7382bd3f 
+Reg 2 = 93bd3c05 
+Reg 3 = 7b61d6f6 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117fa0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc200 
+Reg 10 = 89e0e08d 
+Reg 11 = 235cb722 
+Reg 12 = 799b179 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = b19d7f0d 
+Reg 1 = 8e13b126 
+Reg 2 = 359f9c48 
+Reg 3 = 3671c639 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f80 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc1e0 
+Reg 10 = 3c6b8c32 
+Reg 11 = 5ce06b37 
+Reg 12 = 5edf608e 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = c489df89 
+Reg 1 = e30f2cb2 
+Reg 2 = f923231b 
+Reg 3 = 3db724a6 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f60 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc1c0 
+Reg 10 = 249e8363 
+Reg 11 = 2ca46be5 
+Reg 12 = 888f4892 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 92eeb046 
+Reg 1 = fde1c8e3 
+Reg 2 = b4f32ccc 
+Reg 3 = d7569c85 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f40 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc1a0 
+Reg 10 = c3712c48 
+Reg 11 = 5b66cb6c 
+Reg 12 = da286e4d 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 92eeb046 
+Reg 1 = fde1c8e3 
+Reg 2 = b4f32ccc 
+Reg 3 = d7569c85 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f40 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc1a0 
+Reg 10 = c3712c48 
+Reg 11 = 5b66cb6c 
+Reg 12 = da286e4d 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = bd4b9c65 
+Reg 1 = eb5b17a2 
+Reg 2 = d6c46496 
+Reg 3 = 874df25e 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f20 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc180 
+Reg 10 = e1738b33 
+Reg 11 = 336926fa 
+Reg 12 = 17327e88 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 7a6ba9c6 
+Reg 1 = ec42ce42 
+Reg 2 = b6782583 
+Reg 3 = 2fd50dd6 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117f00 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc160 
+Reg 10 = 38ea0d71 
+Reg 11 = fa5d8be2 
+Reg 12 = d7fed243 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 1aec8da7 
+Reg 1 = 73fb91c9 
+Reg 2 = 4fe335cc 
+Reg 3 = 552e7187 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117ee0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc140 
+Reg 10 = a6b8d6a6 
+Reg 11 = 772dceb3 
+Reg 12 = 8cca718e 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 68e1b373 
+Reg 1 = e38cce5b 
+Reg 2 = 87776e97 
+Reg 3 = 6b6f5f12 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117ec0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc120 
+Reg 10 = 77f42373 
+Reg 11 = 3e9cc6dc 
+Reg 12 = e91e67b8 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 682f6abc 
+Reg 1 = 4dfd2dd9 
+Reg 2 = b6e600d7 
+Reg 3 = 1f4db07b 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117ea0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc100 
+Reg 10 = 4b97e612 
+Reg 11 = d1947224 
+Reg 12 = 8c7f63 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = dc8beb31 
+Reg 1 = 86e45388 
+Reg 2 = 2b284533 
+Reg 3 = e4ba8da2 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e80 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc0e0 
+Reg 10 = db80b77d 
+Reg 11 = 6f17b12c 
+Reg 12 = 3dcdbd42 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = dc8beb31 
+Reg 1 = 86e45388 
+Reg 2 = 2b284533 
+Reg 3 = e4ba8da2 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e80 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc0e0 
+Reg 10 = db80b77d 
+Reg 11 = 6f17b12c 
+Reg 12 = 3dcdbd42 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = cc95be6e 
+Reg 1 = 635c606d 
+Reg 2 = cd0713e6 
+Reg 3 = 26f0b8cb 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e60 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc0c0 
+Reg 10 = a9c452f6 
+Reg 11 = f04d70 
+Reg 12 = 68054ce1 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 6b0e04b6 
+Reg 1 = 62cd3bc5 
+Reg 2 = dc7d61a3 
+Reg 3 = 207d667f 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e40 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc0a0 
+Reg 10 = ece96b36 
+Reg 11 = ab473ac3 
+Reg 12 = 9b192463 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 53e6efea 
+Reg 1 = 86342caf 
+Reg 2 = ff92a39c 
+Reg 3 = 97df18af 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e20 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc080 
+Reg 10 = d20afb6a 
+Reg 11 = 449712c0 
+Reg 12 = 593f49d7 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 72312a7c 
+Reg 1 = 64627d7e 
+Reg 2 = 86759c99 
+Reg 3 = dfaad2e0 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117e00 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc060 
+Reg 10 = f4fc851a 
+Reg 11 = adf9e1a4 
+Reg 12 = d617ad8 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 70217f2 
+Reg 1 = 189fc185 
+Reg 2 = bfa2e5d1 
+Reg 3 = 1330fe23 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117de0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc040 
+Reg 10 = 70be9709 
+Reg 11 = fec67bcc 
+Reg 12 = c95de600 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = e77ff75e 
+Reg 1 = 638c0fa0 
+Reg 2 = ce39f42f 
+Reg 3 = 5875fa06 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117dc0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc020 
+Reg 10 = 3cbe6546 
+Reg 11 = 6e3054ea 
+Reg 12 = 822bb6e5 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = e77ff75e 
+Reg 1 = 638c0fa0 
+Reg 2 = ce39f42f 
+Reg 3 = 5875fa06 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117dc0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc020 
+Reg 10 = 3cbe6546 
+Reg 11 = 6e3054ea 
+Reg 12 = 822bb6e5 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 3e60af4f 
+Reg 1 = 970fcf31 
+Reg 2 = edf1ce3f 
+Reg 3 = fab53bc0 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117da0 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cc000 
+Reg 10 = 4fdf4bbe 
+Reg 11 = 3e516cfb 
+Reg 12 = 836a8276 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = 16d1f945 
+Reg 1 = b70918e5 
+Reg 2 = 66e8c356 
+Reg 3 = 85f8bdab 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d80 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbfe0 
+Reg 10 = 940aa2ba 
+Reg 11 = e57d8457 
+Reg 12 = c5eddaf7 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = b10ea60e 
+Reg 1 = 1bf19f44 
+Reg 2 = 8cbd1816 
+Reg 3 = 42745943 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d60 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbfc0 
+Reg 10 = a0467513 
+Reg 11 = 7cb896cd 
+Reg 12 = d78c1a4e 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = c121fc47 
+Reg 1 = 579b9c7b 
+Reg 2 = 4dde8d9b 
+Reg 3 = e3f61342 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d40 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbfa0 
+Reg 10 = 8c17c147 
+Reg 11 = a37cce53 
+Reg 12 = 9d280f12 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = ff594dfc 
+Reg 1 = dbf5ac26 
+Reg 2 = f9faa867 
+Reg 3 = 179e712d 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d20 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbf80 
+Reg 10 = 68d4bcff 
+Reg 11 = 797d2e74 
+Reg 12 = aad7c16f 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = fc16aae6 
+Reg 1 = ddfb2ceb 
+Reg 2 = df45da6e 
+Reg 3 = f29ea31e 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d00 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbf60 
+Reg 10 = 8b81d21c 
+Reg 11 = d70624ba 
+Reg 12 = 6a602ccc 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+##########
+CPU ID = 1
+Reg 0 = fc16aae6 
+Reg 1 = ddfb2ceb 
+Reg 2 = df45da6e 
+Reg 3 = f29ea31e 
+Reg 4 = 40008000 
+Reg 5 = 400100a0 
+Reg 6 = 40117d00 
+Reg 7 = ffffffff 
+Reg 8 = 48138000 
+Reg 9 = 406cbf60 
+Reg 10 = 8b81d21c 
+Reg 11 = d70624ba 
+Reg 12 = 6a602ccc 
+Reg 13 = 0 
+Reg 14 = 0 
+0x40010150:  e9365c0f      ldmdb	r6!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x40010154:  e1560005      cmp	r6, r5
+0x40010158:  e9295c0f      stmdb	r9!, {r0, r1, r2, r3, sl, fp, ip, lr}
+0x4001015c:  8afffffb      bhi	0x40010150
+
